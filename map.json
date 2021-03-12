@@ -52,12 +52,6 @@
          "id":91,
          "name":"MusikKlavier",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"Klaviermusik.mp3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -70,12 +64,6 @@
          "id":92,
          "name":"MusikAnaTijoux",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"AnaTijoux.mp3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -88,12 +76,6 @@
          "id":93,
          "name":"MusikBausa",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"Bausa.mp3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -106,12 +88,6 @@
          "id":94,
          "name":"MusikSofar",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"Sofar.mp3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
